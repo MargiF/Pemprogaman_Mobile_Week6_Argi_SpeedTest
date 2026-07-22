@@ -30,7 +30,7 @@ Aplikasi ini punya banyak fitur keren yang dikemas dalam UI serba pink:
 ## 📸 Preview Tampilan
 Berikut adalah tampilan cantik dari aplikasi **Pinky Speed Test**:
 
-| 🏠 Main Screen (Idle) | 🚀 Testing Process |                    🏆 Test Result                    |
+| 🏠 Main Screen (Idle) | 🚀 Testing Process |                   🏆 Pilih Server                    |
 |:---:|:---:|:----------------------------------------------------:|
 | <img src="screenshots/idle_screen.png" width="200"> | <img src="screenshots/testing_process.png" width="200"> | <img src="screenshots/pilih_server.png" width="200"> |
 
